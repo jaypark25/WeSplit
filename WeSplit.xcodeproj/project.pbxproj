@@ -8,17 +8,17 @@
 
 /* Begin PBXBuildFile section */
 		4ED142502B4DE8460024B832 /* WeSplitApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED1424F2B4DE8460024B832 /* WeSplitApp.swift */; };
-		4ED142522B4DE8460024B832 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED142512B4DE8460024B832 /* ContentView.swift */; };
 		4ED142542B4DE8480024B832 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4ED142532B4DE8480024B832 /* Assets.xcassets */; };
 		4ED142572B4DE8480024B832 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4ED142562B4DE8480024B832 /* Preview Assets.xcassets */; };
+		4ED1425E2B4DEADC0024B832 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4ED1425D2B4DEADC0024B832 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		4ED1424C2B4DE8460024B832 /* WeSplit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeSplit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4ED1424F2B4DE8460024B832 /* WeSplitApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeSplitApp.swift; sourceTree = "<group>"; };
-		4ED142512B4DE8460024B832 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		4ED142532B4DE8480024B832 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4ED142562B4DE8480024B832 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		4ED1425D2B4DEADC0024B832 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +52,7 @@
 			isa = PBXGroup;
 			children = (
 				4ED1424F2B4DE8460024B832 /* WeSplitApp.swift */,
-				4ED142512B4DE8460024B832 /* ContentView.swift */,
+				4ED1425D2B4DEADC0024B832 /* ContentView.swift */,
 				4ED142532B4DE8480024B832 /* Assets.xcassets */,
 				4ED142552B4DE8480024B832 /* Preview Content */,
 			);
@@ -137,7 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				4ED142522B4DE8460024B832 /* ContentView.swift in Sources */,
+				4ED1425E2B4DEADC0024B832 /* ContentView.swift in Sources */,
 				4ED142502B4DE8460024B832 /* WeSplitApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
